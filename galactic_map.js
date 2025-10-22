@@ -1,8 +1,8 @@
-function getGalaticMap() {
+function getGalacticMap() {
   return {
-    "a": {
-      "name": "Alpha",
-      "divisions": [
+    a: {
+      name: "Alpha",
+      divisions: [
         "Astral Velocium Way",
         "Cometary Graviton Ln",
         "Interstellar Infernium Pl",
@@ -12,12 +12,12 @@ function getGalaticMap() {
         "Spacial Pulsarium Way",
         "Meteoric Solarisium Cir",
         "Exoplanetary Unobtainium Hwy",
-        "Solar Hypnothium Rd"
-      ]
+        "Solar Hypnothium Rd",
+      ],
     },
-    "b": {
-      "name": "Bravo",
-      "divisions": [
+    b: {
+      name: "Bravo",
+      divisions: [
         "Nebular Zerium Ave",
         "Cometary Temporeon Ave",
         "Astral Pulsarium Cir",
@@ -27,12 +27,12 @@ function getGalaticMap() {
         "Sidereal Glacium Cir",
         "Interstellar Elementium Blvd",
         "Meteoric Aurorium Rd",
-        "Meteoric Velocium Cir"
-      ]
+        "Meteoric Velocium Cir",
+      ],
     },
-    "c": {
-      "name": "Charlie",
-      "divisions": [
+    c: {
+      name: "Charlie",
+      divisions: [
         "Extraterrestrial Cryptonium Ct",
         "Cometary Zerium Cir",
         "Solar Pulsarium Ln",
@@ -42,12 +42,12 @@ function getGalaticMap() {
         "Astral Illusium Ter",
         "Extraterrestrial Stellarium Ter",
         "Cometary Fluxium Ct",
-        "Spacial Cosmicon Ct"
-      ]
+        "Spacial Cosmicon Ct",
+      ],
     },
-    "d": {
-      "name": "Delta",
-      "divisions": [
+    d: {
+      name: "Delta",
+      divisions: [
         "Astronomical Pulsarium Ln",
         "Exoplanetary Unobtainium Ln",
         "Nebular Borealium Way",
@@ -57,12 +57,12 @@ function getGalaticMap() {
         "Exoplanetary Voidium Cir",
         "Celestial Solarisium Ct",
         "Astronomical Illusium Way",
-        "Sidereal Zephyrum St"
-      ]
+        "Sidereal Zephyrum St",
+      ],
     },
-    "e": {
-      "name": "Echo",
-      "divisions": [
+    e: {
+      name: "Echo",
+      divisions: [
         "Sidereal Eclipsium Way",
         "Planetary Vortexium St",
         "Solar Plasmanium Hwy",
@@ -72,12 +72,12 @@ function getGalaticMap() {
         "Jovian Thundrium Dr",
         "Sidereal Novanium Cir",
         "Galactic Lumium Hwy",
-        "Galactic Phantasmium Way"
-      ]
+        "Galactic Phantasmium Way",
+      ],
     },
-    "f": {
-      "name": "Foxtrot",
-      "divisions": [
+    f: {
+      name: "Foxtrot",
+      divisions: [
         "Jovian Voidium Ter",
         "Cosmic Velocium Ter",
         "Astral Stellarium Pl",
@@ -87,12 +87,12 @@ function getGalaticMap() {
         "Meteoric Galactium Pl",
         "Orbital Eclipsium Ter",
         "Extraterrestrial Quantium Pkwy",
-        "Orbital Radiantium Pl"
-      ]
+        "Orbital Radiantium Pl",
+      ],
     },
-    "g": {
-      "name": "Golf",
-      "divisions": [
+    g: {
+      name: "Golf",
+      divisions: [
         "Galactic Ethereon Ct",
         "Sidereal Astralium Rd",
         "Nebular Illusium Ter",
@@ -102,12 +102,12 @@ function getGalaticMap() {
         "Astronomical Zerium Pkwy",
         "Sidereal Terrafirium Pkwy",
         "Meteoric Aurorium St",
-        "Cosmic Ethereon Ln"
-      ]
+        "Cosmic Ethereon Ln",
+      ],
     },
-    "h": {
-      "name": "Hotel",
-      "divisions": [
+    h: {
+      name: "Hotel",
+      divisions: [
         "Spacial Fantastium Rd",
         "Lunar Unobtainium Ln",
         "Solar Ignisium Ct",
@@ -117,12 +117,12 @@ function getGalaticMap() {
         "Planetary Radiantium Way",
         "Astronomical Zerium Pkwy",
         "Astronomical Spectrium Ave",
-        "Meteoric Zerium Blvd"
-      ]
+        "Meteoric Zerium Blvd",
+      ],
     },
-    "i": {
-      "name": "India",
-      "divisions": [
+    i: {
+      name: "India",
+      divisions: [
         "Extraterrestrial Voidium Hwy",
         "Orbital Aquatium Pl",
         "Lunar Infernium Pl",
@@ -132,12 +132,12 @@ function getGalaticMap() {
         "Galactic Pulsarium Ave",
         "Galactic Aurorium Ave",
         "Sidereal Frostium Hwy",
-        "Celestial Plasmanium Ln"
-      ]
+        "Celestial Plasmanium Ln",
+      ],
     },
-    "j": {
-      "name": "Juliett",
-      "divisions": [
+    j: {
+      name: "Juliett",
+      divisions: [
         "Cosmic Aetherium Ter",
         "Stellar Omnion Pl",
         "Cosmic Voidium Pl",
@@ -147,12 +147,12 @@ function getGalaticMap() {
         "Exoplanetary Aurorium Rd",
         "Cometary Astralium Blvd",
         "Extraterrestrial Frostium Ave",
-        "Lunar Stellarium St"
-      ]
+        "Lunar Stellarium St",
+      ],
     },
-    "k": {
-      "name": "Kilo",
-      "divisions": [
+    k: {
+      name: "Kilo",
+      divisions: [
         "Cosmic Celestium Cir",
         "Extraterrestrial Fluxium Pl",
         "Spacial Celestium Hwy",
@@ -162,12 +162,12 @@ function getGalaticMap() {
         "Astronomical Lumium Cir",
         "Stellar Celestium Dr",
         "Spacial Infernium Rd",
-        "Cosmic Galactium Dr"
-      ]
+        "Cosmic Galactium Dr",
+      ],
     },
-    "l": {
-      "name": "Lima",
-      "divisions": [
+    l: {
+      name: "Lima",
+      divisions: [
         "Martian Celestium Ct",
         "Jovian Ethereon Pkwy",
         "Astronomical Darkonium Ter",
@@ -177,12 +177,12 @@ function getGalaticMap() {
         "Solar Zerium Pl",
         "Planetary Glacium Cir",
         "Astral Aurorium Ln",
-        "Solar Illusium Ave"
-      ]
+        "Solar Illusium Ave",
+      ],
     },
-    "m": {
-      "name": "Mike",
-      "divisions": [
+    m: {
+      name: "Mike",
+      divisions: [
         "Jovian Solarisium Cir",
         "Solar Vortexium Cir",
         "Galactic Radiantium Ct",
@@ -192,12 +192,12 @@ function getGalaticMap() {
         "Jovian Eclipsium Pl",
         "Cosmic Astralium Ave",
         "Celestial Celestium Rd",
-        "Lunar Astralium Pl"
-      ]
+        "Lunar Astralium Pl",
+      ],
     },
-    "n": {
-      "name": "November",
-      "divisions": [
+    n: {
+      name: "November",
+      divisions: [
         "Planetary Thundrium Rd",
         "Galactic Temporeon Dr",
         "Galactic Nebulium Dr",
@@ -207,12 +207,12 @@ function getGalaticMap() {
         "Orbital Magnetium Cir",
         "Galactic Aurorium St",
         "Interstellar Darkonium Way",
-        "Stellar Luminite Cir"
-      ]
+        "Stellar Luminite Cir",
+      ],
     },
-    "o": {
-      "name": "Oscar",
-      "divisions": [
+    o: {
+      name: "Oscar",
+      divisions: [
         "Jovian Aurorium Rd",
         "Solar Thundrium Pkwy",
         "Stellar Zephyrum Blvd",
@@ -222,12 +222,12 @@ function getGalaticMap() {
         "Orbital Magnetium Pl",
         "Astronomical Cosmicon Way",
         "Planetary Ethereon Blvd",
-        "Exoplanetary Plasmanium Dr"
-      ]
+        "Exoplanetary Plasmanium Dr",
+      ],
     },
-    "p": {
-      "name": "Papa",
-      "divisions": [
+    p: {
+      name: "Papa",
+      divisions: [
         "Nebular Infernium Rd",
         "Solar Frostium Hwy",
         "Astronomical Magnetium Ct",
@@ -237,12 +237,12 @@ function getGalaticMap() {
         "Sidereal Fantastium Rd",
         "Spacial Frostium Pkwy",
         "Jovian Plasmanium Pkwy",
-        "Extraterrestrial Temporeon Blvd"
-      ]
+        "Extraterrestrial Temporeon Blvd",
+      ],
     },
-    "q": {
-      "name": "Quebec",
-      "divisions": [
+    q: {
+      name: "Quebec",
+      divisions: [
         "Cometary Fluxium Hwy",
         "Martian Magnetium Hwy",
         "Martian Glacium Ter",
@@ -252,12 +252,12 @@ function getGalaticMap() {
         "Meteoric Glacium Rd",
         "Meteoric Astralium Blvd",
         "Cosmic Elementium Ln",
-        "Interstellar Frostium Blvd"
-      ]
+        "Interstellar Frostium Blvd",
+      ],
     },
-    "r": {
-      "name": "Romeo",
-      "divisions": [
+    r: {
+      name: "Romeo",
+      divisions: [
         "Cosmic Lumium Dr",
         "Nebular Elementium Ter",
         "Martian Celestium Blvd",
@@ -267,12 +267,12 @@ function getGalaticMap() {
         "Astronomical Zephyrum Ct",
         "Exoplanetary Aquatium Ct",
         "Cometary Quantium Cir",
-        "Sidereal Zerium Ave"
-      ]
+        "Sidereal Zerium Ave",
+      ],
     },
-    "s": {
-      "name": "Sierra",
-      "divisions": [
+    s: {
+      name: "Sierra",
+      divisions: [
         "Lunar Vortexium Ct",
         "Exoplanetary Fluxium Pkwy",
         "Extraterrestrial Temporeon Pkwy",
@@ -282,12 +282,12 @@ function getGalaticMap() {
         "Orbital Aurorium Ter",
         "Exoplanetary Zephyrum Blvd",
         "Stellar Elementium St",
-        "Solar Stellarium Dr"
-      ]
+        "Solar Stellarium Dr",
+      ],
     },
-    "t": {
-      "name": "Tango",
-      "divisions": [
+    t: {
+      name: "Tango",
+      divisions: [
         "Solar Luminite Way",
         "Exoplanetary Spectrium Ter",
         "Interstellar Aurorium Ln",
@@ -297,12 +297,12 @@ function getGalaticMap() {
         "Orbital Aetherium Way",
         "Astral Thundrium Ave",
         "Celestial Phantasmium Ct",
-        "Martian Fluxium Way"
-      ]
+        "Martian Fluxium Way",
+      ],
     },
-    "u": {
-      "name": "Uniform",
-      "divisions": [
+    u: {
+      name: "Uniform",
+      divisions: [
         "Sidereal Infernium Ln",
         "Planetary Phantasmium Ter",
         "Solar Thundrium Rd",
@@ -312,12 +312,12 @@ function getGalaticMap() {
         "Celestial Velocium Blvd",
         "Sidereal Zerium Cir",
         "Solar Aurorium Pkwy",
-        "Planetary Glacium Blvd"
-      ]
+        "Planetary Glacium Blvd",
+      ],
     },
-    "v": {
-      "name": "Victor",
-      "divisions": [
+    v: {
+      name: "Victor",
+      divisions: [
         "Meteoric Magnetium St",
         "Nebular Fantastium Dr",
         "Lunar Lumium Hwy",
@@ -327,12 +327,12 @@ function getGalaticMap() {
         "Nebular Cryptonium St",
         "Celestial Aurorium Way",
         "Meteoric Novanium Ct",
-        "Extraterrestrial Galactium Ct"
-      ]
+        "Extraterrestrial Galactium Ct",
+      ],
     },
-    "w": {
-      "name": "Whiskey",
-      "divisions": [
+    w: {
+      name: "Whiskey",
+      divisions: [
         "Extraterrestrial Quantium Way",
         "Martian Pulsarium Pkwy",
         "Spacial Zerium Ct",
@@ -342,12 +342,12 @@ function getGalaticMap() {
         "Meteoric Darkonium Rd",
         "Meteoric Magnetium Rd",
         "Astronomical Plasmanium Ln",
-        "Interstellar Fluxium Cir"
-      ]
+        "Interstellar Fluxium Cir",
+      ],
     },
-    "x": {
-      "name": "Xray",
-      "divisions": [
+    x: {
+      name: "Xray",
+      divisions: [
         "Astronomical Aurorium Pl",
         "Jovian Spectrium Pl",
         "Martian Omnion Ln",
@@ -357,12 +357,12 @@ function getGalaticMap() {
         "Astronomical Elementium Rd",
         "Cosmic Pulsarium Way",
         "Martian Infernium Rd",
-        "Lunar Aurorium Dr"
-      ]
+        "Lunar Aurorium Dr",
+      ],
     },
-    "y": {
-      "name": "Yankee",
-      "divisions": [
+    y: {
+      name: "Yankee",
+      divisions: [
         "Solar Novanium St",
         "Stellar Magnetium Hwy",
         "Stellar Pulsarium Ave",
@@ -372,12 +372,12 @@ function getGalaticMap() {
         "Extraterrestrial Pulsarium Dr",
         "Spacial Fantastium St",
         "Planetary Astralium Rd",
-        "Astronomical Ignisium St"
-      ]
+        "Astronomical Ignisium St",
+      ],
     },
-    "z": {
-      "name": "Zulu",
-      "divisions": [
+    z: {
+      name: "Zulu",
+      divisions: [
         "Cosmic Novanium Cir",
         "Exoplanetary Borealium Ct",
         "Jovian Plasmanium Way",
@@ -387,8 +387,8 @@ function getGalaticMap() {
         "Interstellar Velocium Cir",
         "Astral Elementium Rd",
         "Planetary Elementium Pl",
-        "Sidereal Aquatium Ter"
-      ]
-    }
-  }
+        "Sidereal Aquatium Ter",
+      ],
+    },
+  };
 }
