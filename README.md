@@ -1,6 +1,6 @@
-# CS272-S25 HW7: Badger Galactic
+# CS272 HW7: Badger Galactic
 
-In this HW, you will write a program that will take a galactic code and lookup its galactic address! The focus of this homework is less-so on the visual elements and more-so on your understanding of conditionals, loops, lists, and objects.
+In this homework, you will write a program that will take a galactic code and look up its galactic address! The focus of this homework is less on the visual elements and more on your understanding of conditionals, loops, lists, and objects.
 
 ## About
 
